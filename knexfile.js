@@ -4,7 +4,7 @@ module.exports = {
 
   development: {
     client: 'pg',
-    connection:'postgresql//localhost/music'
+    connection:'postgresql://localhost/music'
 
   },
 
